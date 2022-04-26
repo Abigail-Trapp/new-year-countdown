@@ -1,0 +1,32 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.wraparound{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-row-gap: 10px;
+    padding: 10px;
+}
+
+p{
+    background-color: rgba(31, 46, 68, 0.607);
+    color: white;
+}
+#days{
+    background-color: rgba(55, 99, 164, 0.607);
+    padding: 50px;
+}
+#hours{
+    background-color: rgba(55, 99, 164, 0.607);
+    padding: 50px;
+}
+#minutes{
+    background-color: rgba(55, 99, 164, 0.607);
+    padding: 50px;
+}
+#seconds{
+    background-color: rgba(55, 99, 164, 0.607);
+    padding: 50px;
+}
