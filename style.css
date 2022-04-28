@@ -1,6 +1,10 @@
+*{
+    background-color: black;
+}
 h1{
     display: flex;
     justify-content: center;
+    color: white;
 }
 
 .wraparound{
@@ -21,6 +25,7 @@ p{
 }
 #days{
     background-color: rgba(55, 99, 164, 0.607);
+    color: white;
     padding: 50px;
     margin-right: 40px;
     text-align: center;
@@ -28,6 +33,7 @@ p{
 }
 #hours{
     background-color: rgba(55, 99, 164, 0.607);
+    color: white;
     padding: 50px;
     text-align: center;
     font-size: 50px;
@@ -35,6 +41,7 @@ p{
 }
 #minutes{
     background-color: rgba(55, 99, 164, 0.607);
+    color: white;
     padding: 50px;
     margin-right: 40px;
     text-align: center;
@@ -42,6 +49,7 @@ p{
 }
 #seconds{
     background-color: rgba(55, 99, 164, 0.607);
+    color: white;
     padding: 50px;
     text-align: center;
     font-size: 50px;
