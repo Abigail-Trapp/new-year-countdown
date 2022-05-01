@@ -15,15 +15,6 @@ h1{
     padding: 10px;
 }
 
-p{
-    background-color: rgba(31, 46, 68, 0.607);
-    display: flex;
-    justify-content: center;
-    color: white;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-size: 30px;
-}
 #days{
     background-color: rgba(55, 99, 164, 0.607);
     color: white;
@@ -54,4 +45,14 @@ p{
     padding: 50px;
     text-align: center;
     font-size: 50px;
+}
+
+p{
+    background-color: rgba(31, 46, 68, 0.607);
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
 }
